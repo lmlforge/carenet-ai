@@ -11,12 +11,12 @@ CareNet is an AI-powered assistant designed to help individuals in crisis — su
 - WhatsApp & IVR integration planned
 - ML-powered data scraping + recommendation
 
-## 🤖 Tech Stack
+##  Tech Stack
 - Python
 - Scikit-learn
 - BeautifulSoup / Scrapy (for scraping)
 - FastAPI or Flask
 - (Optional: Firebase/SQL DB, Twilio WhatsApp API)
 
-## 📌 Status
-🚧 In Progress — Building MVP now!
+## Status
+ In Progress — Building MVP now!
